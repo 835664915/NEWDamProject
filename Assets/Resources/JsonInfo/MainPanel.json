@@ -1,0 +1,22 @@
+﻿{
+"panelInfo":[
+  {
+    "panelName": "MainPanel",
+    "panelUrl": "UIPanelPrefabs/MainPanel"
+
+  },
+  {
+    "panelName": "DownPanel",
+    "panelUrl": "UIPanelPrefabs/DownPanel"
+
+  }
+
+
+
+
+]
+
+
+
+
+}
